@@ -1,4 +1,4 @@
-module collyexample
+module quotescraper
 
 go 1.19
 
