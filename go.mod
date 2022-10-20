@@ -1,4 +1,4 @@
-module quotescraper
+module github.com/nikulpatel3141/colly_goodreads_scraper
 
 go 1.19
 
