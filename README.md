@@ -14,7 +14,7 @@ $ ./colly_goodreads_scraper life
 Alternatively you can install directly:
 ```bash
 $ go install github.com/nikulpatel3141/colly_goodreads_scraper@latest
-$ colly_goodreads_scraper humor
+$ colly_goodreads_scraper humor # assuming GOPATH is in your PATH
 ...
 ```
 
@@ -23,4 +23,6 @@ $ colly_goodreads_scraper humor
 $ git clone https://github.com/nikulpatel3141/colly_goodreads_scraper
 $ cd colly_goodreads_scraper
 $ go run main.go wisdom
+...
 ```
+
